@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Look at Two College Football Rivalry Trophies
 
 You can use the [editor on GitHub](https://github.com/Dinosauce313/exampleSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
