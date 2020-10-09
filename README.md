@@ -1,8 +1,6 @@
 ### A Look at College Football Rivalry Trophies
 
-You can use the [editor on GitHub](https://github.com/Dinosauce313/exampleSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With the first American college football game being played in 1869 between the New Jersey (now Princeton) Tigers and Rutgers Queensmen (now Scarlet Knights), the sport has grown deep roots in the hearts of sports fans all over the world. Between various teams and regions of the country are pockets of subcultures, each revering their own players, team histories, and traditions. Over time, much about the sport has changed. Various rules and safety precautions have been adjusted to make the game safer and more dynamic. Many schools began to form their own athletic conferences to make managing scheduling games, recruiting players, and drawing in revenue easier. Furthermore, college football has seen many American cultural icons line up on the gridiron, whether as a player or coach. Some of these names include former U.S. president Gerald Ford,  Knute Rockne, OJ Simpson, and Herschel Walker. However, one everlasting facet of the sport are the various rivalries between schools. In fact, that Rutgers-New Jersey game is considered today as a beginning of college football rivalries, and the losing New Jersey players were run out of town (literally) by Rutgers students. Ever since then, many more schools in the name of friendly competition or bad blood have eagerly competed against one another on the field, oftentimes with the winning team receiving or keeping a trophy upon victory. Lots of these rivalries abnd trophies have a deep history, and the purpose of my webpage is to give background information on some of them.
 
 ### The Little Brown Jug
 
@@ -11,6 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### The Stanford Axe
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### 5 Dollar Bits of Broken Chair Trophy
 
 ### Jekyll Themes
 
